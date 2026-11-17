@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-bsd-star"
-description = "StarBSD packaging and system integration"
+description = "SigmaOS BSD Star - Astronomy and science BSD with precision timer support"
 version = "0.1.0"
 tier = 4
 
